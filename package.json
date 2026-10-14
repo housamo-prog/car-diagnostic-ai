@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@google/genai": "^0.21.0",
+    "@google/genai": "latest",
     "next": "14.2.0",
     "react": "18.3.1",
     "react-dom": "18.3.1"
